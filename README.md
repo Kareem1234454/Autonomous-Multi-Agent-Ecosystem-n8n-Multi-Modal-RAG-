@@ -50,20 +50,6 @@ APIs & Integrations: WhatsApp Business API, Google Workspace APIs (Gmail, Calend
 
 Scripting & Logic: Node.js / JavaScript
 
-📁 Repository Structure
-
-multi-agent-ecosystem/
-│
-├── workflows/
-│   ├── main_orchestrator.json      # Core n8n workflow definition
-│   └── sub_agents_config.json      # Individual sub-agent prompt templates
-│
-├── scripts/
-│   ├── custom_mapping.js           # JavaScript nodes for advanced data manipulation
-│   └── audio_processor.py          # Helper for supplementary voice handling (if applicable)
-│
-├── .env.example                    # Template for required API keys and credentials
-└── README.md                       # Project documentation
 
 🔧 Setup & Deployment
 Prerequisites
